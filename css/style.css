@@ -412,7 +412,8 @@ button,
 input,
 select,
 textarea {
-  font-family: Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif;
+  /*font-family: Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif;*/
+  font-family: 'Roboto', sans-serif;
 }
 code,
 pre {
@@ -11581,7 +11582,8 @@ figure.highlight .section {
 .cc-window,
 .cc-revoke {
   font-size: 1.1rem !important;
-  font-family: Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif !important;
+  /*font-family: Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif !important;*/
+  font-family: 'Roboto', sans-serif;
 }
 .cc-window {
   color: #4a4a4a !important;

@@ -412,7 +412,8 @@ button,
 input,
 select,
 textarea {
-  font-family: Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif;
+  /*font-family: Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif;*/
+  font-family: 'Roboto', sans-serif;
 }
 code,
 pre {
@@ -1064,13 +1065,15 @@ a.has-text-grey-lightest:focus {
   font-weight: 700 !important;
 }
 .is-family-primary {
-  font-family: Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif !important;
+  /*font-family: Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif !important;*/
+  font-family: 'Roboto', sans-serif;
 }
 .is-family-secondary {
-  font-family: Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif !important;
-}
+  /*font-family: Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif !important;*/
+  font-family: 'Roboto', sans-serif;
 .is-family-sans-serif {
-  font-family: Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif !important;
+  /*font-family: Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif !important;*/
+  font-family: 'Roboto', sans-serif;
 }
 .is-family-monospace {
   font-family: monospace !important;
@@ -11581,7 +11584,8 @@ figure.highlight .section {
 .cc-window,
 .cc-revoke {
   font-size: 1.1rem !important;
-  font-family: Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif !important;
+  /*font-family: Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif !important;*/
+  font-family: 'Roboto', sans-serif;
 }
 .cc-window {
   color: #4a4a4a !important;
